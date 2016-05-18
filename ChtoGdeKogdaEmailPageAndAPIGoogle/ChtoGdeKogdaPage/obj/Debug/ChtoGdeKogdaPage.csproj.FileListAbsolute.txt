@@ -1,0 +1,15 @@
+C:\Users\TheMoisha\Desktop\shtogdekogda\MyWebPage\ActualWebSite\ChtoGdeKogdaPage\ChtoGdeKogdaPage\bin\ChtoGdeKogdaPage.dll
+C:\Users\TheMoisha\Desktop\shtogdekogda\MyWebPage\ActualWebSite\ChtoGdeKogdaPage\ChtoGdeKogdaPage\bin\ChtoGdeKogdaPage.pdb
+C:\Users\TheMoisha\Desktop\shtogdekogda\MyWebPage\ActualWebSite\ChtoGdeKogdaPage\ChtoGdeKogdaPage\obj\Debug\ChtoGdeKogdaPage.csprojResolveAssemblyReference.cache
+C:\Users\TheMoisha\Desktop\shtogdekogda\MyWebPage\ActualWebSite\ChtoGdeKogdaPage\ChtoGdeKogdaPage\obj\Debug\ChtoGdeKogdaPage.dll
+C:\Users\TheMoisha\Desktop\shtogdekogda\MyWebPage\ActualWebSite\ChtoGdeKogdaPage\ChtoGdeKogdaPage\obj\Debug\ChtoGdeKogdaPage.pdb
+C:\Users\TheMoisha\Desktop\shtogdekogda\MyWebPage\ChtoGdeKogdaPage\ChtoGdeKogdaPage\ChtoGdeKogdaPage\obj\Debug\ChtoGdeKogdaPage.dll
+C:\Users\TheMoisha\Desktop\shtogdekogda\MyWebPage\ChtoGdeKogdaPage\ChtoGdeKogdaPage\ChtoGdeKogdaPage\bin\ChtoGdeKogdaPage.dll
+C:\Users\TheMoisha\Desktop\shtogdekogda\MyWebPage\ChtoGdeKogdaPage\ChtoGdeKogdaPage\ChtoGdeKogdaPage\bin\ChtoGdeKogdaPage.pdb
+C:\Users\TheMoisha\Desktop\shtogdekogda\MyWebPage\ChtoGdeKogdaPage\ChtoGdeKogdaPage\ChtoGdeKogdaPage\obj\Debug\ChtoGdeKogdaPage.pdb
+C:\Users\TheMoisha\Desktop\shtogdekogda\MyWebPage\ChtoGdeKogdaPage\ChtoGdeKogdaPage\ChtoGdeKogdaPage\obj\Debug\ChtoGdeKogdaPage.csprojResolveAssemblyReference.cache
+C:\Users\TheMoisha\Desktop\ChtoGdeKogda\ChtoGdeKogdaEmailPage\ChtoGdeKogdaPage\bin\ChtoGdeKogdaPage.dll
+C:\Users\TheMoisha\Desktop\ChtoGdeKogda\ChtoGdeKogdaEmailPage\ChtoGdeKogdaPage\bin\ChtoGdeKogdaPage.pdb
+C:\Users\TheMoisha\Desktop\ChtoGdeKogda\ChtoGdeKogdaEmailPage\ChtoGdeKogdaPage\obj\Debug\ChtoGdeKogdaPage.csprojResolveAssemblyReference.cache
+C:\Users\TheMoisha\Desktop\ChtoGdeKogda\ChtoGdeKogdaEmailPage\ChtoGdeKogdaPage\obj\Debug\ChtoGdeKogdaPage.dll
+C:\Users\TheMoisha\Desktop\ChtoGdeKogda\ChtoGdeKogdaEmailPage\ChtoGdeKogdaPage\obj\Debug\ChtoGdeKogdaPage.pdb

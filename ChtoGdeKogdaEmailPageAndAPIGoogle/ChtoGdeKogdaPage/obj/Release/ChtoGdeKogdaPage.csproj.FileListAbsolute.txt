@@ -1,0 +1,5 @@
+C:\Users\TheMoisha\Desktop\shtogdekogda\MyWebPage\ChtoGdeKogdaPage\ChtoGdeKogdaPage\ChtoGdeKogdaPage\bin\ChtoGdeKogdaPage.dll
+C:\Users\TheMoisha\Desktop\shtogdekogda\MyWebPage\ChtoGdeKogdaPage\ChtoGdeKogdaPage\ChtoGdeKogdaPage\bin\ChtoGdeKogdaPage.pdb
+C:\Users\TheMoisha\Desktop\shtogdekogda\MyWebPage\ChtoGdeKogdaPage\ChtoGdeKogdaPage\ChtoGdeKogdaPage\obj\Release\ChtoGdeKogdaPage.csprojResolveAssemblyReference.cache
+C:\Users\TheMoisha\Desktop\shtogdekogda\MyWebPage\ChtoGdeKogdaPage\ChtoGdeKogdaPage\ChtoGdeKogdaPage\obj\Release\ChtoGdeKogdaPage.dll
+C:\Users\TheMoisha\Desktop\shtogdekogda\MyWebPage\ChtoGdeKogdaPage\ChtoGdeKogdaPage\ChtoGdeKogdaPage\obj\Release\ChtoGdeKogdaPage.pdb

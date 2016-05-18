@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit http://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAMMzHOELQfkG2JVC7x2ChEQAAAAACAAAAAAAQZgAAAAEAACAAAADRKlEXUhGTTggwNIZ28XZyNEUsZW24lxsV9wzb2WDYsAAAAAAOgAAAAAIAACAAAADuOUj9JE3D6l71JYSCtAuaqoLXkPF8yiJr3RipepSVvBAAAAAMGk2ZVrCLvqcy9LyYXf7MQAAAAJ0k48C5uwO1x6Tjz1JqHrj9AhjGfU3BB9IvVFnK7eMZZ5IbLR+q9BdSqtfegeXF10GT78ie6xpO63sComSXNwU=</EncryptedPassword>
+    <_PublishTargetUrl>ftp://206.72.205.242/httpdocs</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="bin/ChtoGdeKogdaPage.dll">
+      <publishTime>05/12/2016 12:46:52</publishTime>
+    </File>
+    <File Include="bootstrap.css">
+      <publishTime>05/11/2016 21:59:49</publishTime>
+    </File>
+    <File Include="bootstrap.js">
+      <publishTime>05/11/2016 21:37:09</publishTime>
+    </File>
+    <File Include="bootstrap.min.js">
+      <publishTime>05/11/2016 21:37:10</publishTime>
+    </File>
+    <File Include="fonts/glyphicons-halflings-regular.eot">
+      <publishTime>05/11/2016 21:37:01</publishTime>
+    </File>
+    <File Include="fonts/glyphicons-halflings-regular.svg">
+      <publishTime>05/11/2016 21:37:01</publishTime>
+    </File>
+    <File Include="fonts/glyphicons-halflings-regular.ttf">
+      <publishTime>05/11/2016 21:37:02</publishTime>
+    </File>
+    <File Include="fonts/glyphicons-halflings-regular.woff">
+      <publishTime>05/11/2016 21:37:02</publishTime>
+    </File>
+    <File Include="fonts/glyphicons-halflings-regular.woff2">
+      <publishTime>05/11/2016 21:37:02</publishTime>
+    </File>
+    <File Include="index.aspx">
+      <publishTime>05/12/2016 12:55:32</publishTime>
+    </File>
+    <File Include="jquery-2.1.4.min.js">
+      <publishTime>05/11/2016 21:37:10</publishTime>
+    </File>
+    <File Include="npm.js">
+      <publishTime>05/11/2016 21:37:10</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>05/12/2016 11:25:26</publishTime>
+    </File>
+  </ItemGroup>
+</Project>
