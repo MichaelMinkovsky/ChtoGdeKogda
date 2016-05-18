@@ -1,2 +1,2 @@
-# ChtoGdeKogda
-#This is for my web page(Это для клуба Что? Где? Когда? Филадельфия!
+#Это страница для клуба Что? Где? Когда? Филадельфия
+Здесь сейчас email page, index page, and map page
